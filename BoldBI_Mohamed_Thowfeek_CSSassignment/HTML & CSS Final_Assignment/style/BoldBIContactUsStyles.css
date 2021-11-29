@@ -1,0 +1,55 @@
+
+#background
+{
+    background-image:url(/Images/Vector-1.png)
+
+}
+body
+{
+    background:url(/Images/boldbi_chat_Icon.svg);
+   
+}
+.FirstHalf{
+    border: 1px solid red;
+    width: 30%;
+    float: left;
+    margin-right: 2.5%;
+    
+    
+    
+  
+
+}
+#FirstHalfRightSub{
+    float: right;
+
+
+}
+#FirstHalfBox{
+
+    width: 10;
+  
+    
+    
+ 
+}
+#FirstHalfBoxForm{
+    padding-left: 50;
+    float:right;
+    padding-right: 200;
+   
+    
+
+}
+#SecondHalf
+{
+    
+    margin-top: 500;
+    margin-left: 500;
+}
+ #OfficeLocationsHeading{
+    margin-right: 150;
+}
+#Morrsiville{
+    margin-left: 100; 
+}
